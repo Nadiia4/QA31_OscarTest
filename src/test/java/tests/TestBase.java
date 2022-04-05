@@ -10,7 +10,7 @@ import static helpers.APIHelper.thisIsStaticMethod;
 
 public class TestBase {
 
-    WebDriver driver;
+    public WebDriver driver;
 
     @BeforeMethod
 
