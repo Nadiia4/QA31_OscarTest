@@ -1,5 +1,5 @@
 package pages;
 import helpers.APIHelper;
-public class BasketPage {
+public class BasketPage extends PageBase{
     // APIHelper.thisIsStaticMethod();
 }
